@@ -1,0 +1,274 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Suç ve Ceza",
+            "author": "Dostoyevski",
+            "image": "https://picsum.photos/600",
+            "year": 1866,
+            "page": 688,
+            "description": "Raskolnikov'un kişiliğini yeni anti-radikal ideolojik temalarla birleştirmiştir. Ana konu, ideolojik zehirlenme sonucu yaşanan bir cinayeti içermektedir ve cinayetten kaynaklanan tüm feci ahlaki ve ruhsal sonuçları tasvir etmektedir."
+        },
+        {
+            "id": "2",
+            "title": "Savaş ve Barış",
+            "author": "Tolstoy",
+            "image": "https://picsum.photos/601",
+            "year": 1869,
+            "page": 1225,
+            "description": "Napolyon'un Rusya'ya saldırısını ve sonrasında Rus toplumunda yaşanan değişiklikleri konu alır. Karakterlerin kişisel yaşamlarını ve savaşın geniş kapsamlı etkilerini detaylı bir şekilde işler."
+        },
+        {
+            "id": "3",
+            "title": "1984",
+            "author": "George Orwell",
+            "image": "https://picsum.photos/602",
+            "year": 1949,
+            "page": 328,
+            "description": "Totaliter bir devletin kontrolü altındaki bireyin hikayesini anlatır. Devletin manipülasyonu, sansür ve bireyin özgürlük arayışı gibi temalar işlenir."
+        },
+        {
+            "id": "4",
+            "title": "Yüzüklerin Efendisi",
+            "author": "J.R.R. Tolkien",
+            "image": "https://picsum.photos/603",
+            "year": 1954,
+            "page": 1216,
+            "description": "Orta Dünya'da geçen epik bir fantastik hikayeyi konu alır. Frodo'nun Yüzük'ü yok etme görevi ve bu görev için yola çıkan maceraperestlerin hikayesidir."
+        },
+        {
+            "id": "5",
+            "title": "Kürk Mantolu Madonna",
+            "author": "Sabahattin Ali",
+            "image": "https://picsum.photos/604",
+            "year": 1943,
+            "page": 234,
+            "description": "Sabahattin Ali'nin en bilinen eserlerinden biridir. Genç bir öğretmen ile ona aşık olan bir kadının trajik aşk hikayesini anlatır."
+        },
+        {
+            "id": "6",
+            "title": "Anna Karenina",
+            "author": "Tolstoy",
+            "image": "https://picsum.photos/605",
+            "year": 1877,
+            "page": 864,
+            "description": "Anna Karenina'nın yasak aşkını ve toplum baskısını konu alır. İnsanın içsel çatışmalarını, ahlaki sorunları ve aşkın gücünü detaylı bir şekilde işler."
+        },
+        {
+            "id": "7",
+            "title": "Don Kişot",
+            "author": "Miguel de Cervantes",
+            "image": "https://picsum.photos/606",
+            "year": 1605,
+            "page": 863,
+            "description": "Don Kişot ve sadık uşağı Sancho Panza'nın komik maceralarını anlatır. Rönesans döneminin en önemli eserlerinden biri olarak kabul edilir."
+        },
+        {
+            "id": "8",
+            "title": "Cesur Yeni Dünya",
+            "author": "Aldous Huxley",
+            "image": "https://picsum.photos/607",
+            "year": 1932,
+            "page": 288,
+            "description": "Distopik bir toplumda geçen hikayede, bilim ve teknolojinin insan yaşamındaki etkileri sorgulanır. Toplumun manipülasyonu ve bireysel özgürlük arasındaki çatışmayı ele alır."
+        },
+        {
+            "id": "9",
+            "title": "Madame Bovary",
+            "author": "Gustave Flaubert",
+            "image": "https://picsum.photos/608",
+            "year": 1856,
+            "page": 368,
+            "description": "Emma Bovary'nin mutsuz evliliği ve romantik hayalleri etrafında dönen bir hikayedir. Kadının toplum içindeki yerini, aşkın ve tutkunun insan hayatındaki yeri sorgulanır."
+        },
+        {
+            "id": "10",
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "image": "https://picsum.photos/609",
+            "year": 1851,
+            "page": 635,
+            "description": "Balina avcılığı yapan gemideki mürettebatın hikayesini anlatır. İnsanın doğa karşısındaki gücünü, obsesyonun etkilerini ve insanın kaderini sorgular."
+        },
+        {
+            "id": "11",
+            "title": "Bülbülü Öldürmek",
+            "author": "Harper Lee",
+            "image": "https://picsum.photos/610",
+            "year": 1960,
+            "page": 376,
+            "description": "Alabama'da geçen bir aile hikayesi üzerinden ırkçılık ve adalet temalarını işler. Scout Finch'in gözünden çocukluk ve yetişkinlik arasındaki çatışmayı ele alır."
+        },
+        {
+            "id": "12",
+            "title": "Sefiller",
+            "author": "Victor Hugo",
+            "image": "https://picsum.photos/611",
+            "year": 1862,
+            "page": 1232,
+            "description": "Jean Valjean'ın hikayesini anlatır. Adalet, aşk, umut ve insanın iyiliği gibi evrensel temalar işlenir. Fransız toplumunun sosyal ve politik yapısını detaylı bir şekilde inceler."
+        },
+        {
+            "id": "13",
+            "title": "Cehennemde İki Melek",
+            "author": "Halide Edib Adıvar",
+            "image": "https://picsum.photos/612",
+            "year": 1918,
+            "page": 272,
+            "description": "Birinci Dünya Savaşı sırasında İstanbul'da geçen bir aşk hikayesidir. Savaşın ve toplumsal değişimlerin etkilerini, insanların yaşadığı zorlukları anlatır."
+        },
+        {
+            "id": "14",
+            "title": "Vahşetin Çağrısı",
+            "author": "Jack London",
+            "image": "https://picsum.photos/613",
+            "year": 1903,
+            "page": 208,
+            "description": "Köpek Buck'ın hikayesini anlatır. Alaska'da geçen bu macera, doğanın gücünü, hayatta kalma mücadelesini ve insanın içgüdülerini sorgular."
+        },
+        {
+            "id": "15",
+            "title": "Robinson Crusoe",
+            "author": "Daniel Defoe",
+            "image": "https://picsum.photos/614",
+            "year": 1719,
+            "page": 320,
+            "description": "Tek başına bir adada mahsur kalan Robinson Crusoe'nin hayatta kalma mücadelesini ve yalnızlığını anlatır. Macera ve insanın doğaya uyumunu işler."
+        },
+        {
+            "id": "16",
+            "title": "Dönüşüm",
+            "author": "Franz Kafka",
+            "image": "https://picsum.photos/615",
+            "year": 1915,
+            "page": 224,
+            "description": "Gregor Samsa'nın beklenmedik bir şekilde bir böceğe dönüşmesini konu alır. Bireyin toplum içindeki yeri, yabancılaşma ve insanın değişen doğasını sorgular."
+        },
+        {
+            "id": "17",
+            "title": "Büyülü Dağ",
+            "author": "Thomas Mann",
+            "image": "https://picsum.photos/616",
+            "year": 1924,
+            "page": 720,
+            "description": "Hans Castorp'un bir sanatoryumda geçen yaşamını anlatır. İnsanın ölüm ve hastalık karşısındaki duruşunu, zaman kavramını ve Avrupa toplumunun durumunu işler."
+        },
+        {
+            "id": "18",
+            "title": "Anna Karenina",
+            "author": "Tolstoy",
+            "image": "https://picsum.photos/617",
+            "year": 1877,
+            "page": 864,
+            "description": "Anna Karenina'nın yasak aşkını ve toplum baskısını konu alır. İnsanın içsel çatışmalarını, ahlaki sorunları ve aşkın gücünü detaylı bir şekilde işler."
+        },
+        {
+            "id": "19",
+            "title": "Kırmızı Pazartesi",
+            "author": "Gabriel García Márquez",
+            "image": "https://picsum.photos/618",
+            "year": 1981,
+            "page": 176,
+            "description": "Gerçek bir olaydan esinlenerek yazılmıştır. 1948'de Bogotá'da gerçekleşen bir olayın etrafında şekillenir. Sevgi, aşk ve şiddet temasını işler."
+        },
+        {
+            "id": "20",
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "image": "https://picsum.photos/619",
+            "year": 1847,
+            "page": 624,
+            "description": "Jane Eyre'nin yetimhaneden başlayarak zorluklarla dolu yaşamını anlatır. Aşk, özgürlük ve kadının toplumdaki yeri gibi temaları işler."
+        },
+        {
+            "id": "21",
+            "title": "Kardeşimin Hikayesi",
+            "author": "Zülfü Livaneli",
+            "image": "https://picsum.photos/620",
+            "year": 2002,
+            "page": 320,
+            "description": "Bir ailenin trajik hikayesini anlatır. Kültürel değerler, aşk, aile bağları ve geçmişle yüzleşme gibi temaları işler."
+        },
+        {
+            "id": "22",
+            "title": "Dava",
+            "author": "Franz Kafka",
+            "image": "https://picsum.photos/621",
+            "year": 1925,
+            "page": 352,
+            "description": "Josef K.'nın beklenmedik bir şekilde tutuklanmasını ve adalet arayışını anlatır. Bireyin bürokrasi karşısındaki çaresizliğini ve toplumsal normları sorgular."
+        },
+        {
+            "id": "23",
+            "title": "Göğe Bakma Durağı",
+            "author": "Turgut Uyar",
+            "image": "https://picsum.photos/622",
+            "year": 1969,
+            "page": 88,
+            "description": "Turgut Uyar'ın en bilinen şiirlerinden oluşan bir eserdir. Şairin iç dünyasını, varoluşsal sorgulamalarını ve hayata bakışını yansıtır."
+        },
+        {
+            "id": "24",
+            "title": "Körlük",
+            "author": "José Saramago",
+            "image": "https://picsum.photos/623",
+            "year": 1995,
+            "page": 312,
+            "description": "Aniden tüm insanların körlüğe yakalandığı bir olayı konu alır. Toplumsal normların ve medeniyetin sorgulanmasını işler."
+        },
+        {
+            "id": "25",
+            "title": "Simyacı",
+            "author": "Paulo Coelho",
+            "image": "https://picsum.photos/624",
+            "year": 1988,
+            "page": 208,
+            "description": "Bir çobanın içsel yolculuğunu ve kendi kaderini bulma çabasını anlatır. Rüyalar, kader ve insanın içsel gücü gibi temaları işler."
+        },
+        {
+            "id": "26",
+            "title": "Beyaz Zambaklar Ülkesinde",
+            "author": "Grigore Ureche",
+            "image": "https://picsum.photos/625",
+            "year": 1985,
+            "page": 184,
+            "description": "Osmanlı Devleti'nin 17. yüzyıl Moldova'sındaki olayları ve dönemin sosyo-politik yapısını anlatır. Tarihsel bir roman olarak kabul edilir."
+        },
+        {
+            "id": "27",
+            "title": "Midas'ın Kulakları",
+            "author": "Kemal Varol",
+            "image": "https://picsum.photos/626",
+            "year": 2008,
+            "page": 240,
+            "description": "Bir radyo sunucusunun hikayesini anlatır. Medya, popüler kültür ve bireyin toplum içindeki yeri gibi temaları işler."
+        },
+        {
+            "id": "28",
+            "title": "Olağanüstü Bir Gece",
+            "author": "Stefan Zweig",
+            "image": "https://picsum.photos/627",
+            "year": 1922,
+            "page": 112,
+            "description": "Bir trene binen genç kadın ve onunla karşılaşan birkaç yolcunun hikayesini anlatır. Tesadüfler, insan ilişkileri ve sıradan anların önemi işlenir."
+        },
+        {
+            "id": "29",
+            "title": "Satranç",
+            "author": "Stefan Zweig",
+            "image": "https://picsum.photos/628",
+            "year": 1942,
+            "page": 104,
+            "description": "Bir gemide geçen bir hikayedir. İki eski arkadaşın satranç oyunu etrafında şekillenen psikolojik ve tarihsel çatışmasını işler."
+        },
+        {
+            "id": "30",
+            "title": "Köpeklerin İsyanı",
+            "author": "Daniel Keyes",
+            "image": "https://picsum.photos/629",
+            "year": 1967,
+            "page": 248,
+            "description": "Bilimsel deneyler sonucu köpeklerin insan zekasına kavuştuğu bir dünyayı konu alır. İnsanlık, etik ve toplumun köpekler üzerindeki etkileri sorgulanır."
+        }
+    ]
+}
